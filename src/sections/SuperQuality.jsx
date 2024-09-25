@@ -20,7 +20,12 @@ const SuperQuality = () => {
           Our dedication to detail ensures your satisfaction
         </p>
         <div className="mt-11">
-          <Button label='View details' />
+          <Button 
+            label="View details"
+            backgroundColor="bg-white"
+            borderColor="border-slate-gray"
+            textColor="text-slate-gray"
+          />
         </div>
       </div>
         <div className="flex-1 flex justify-center items-center">
